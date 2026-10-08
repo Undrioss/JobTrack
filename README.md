@@ -58,7 +58,9 @@ No third-party Python packages are required.
 
 1. Clone the repository:
 
-   git clone YOUR_REPOSITORY_URL
+ 
+git clone https://github.com/Undrioss/JobTrack.git
+
 
 2. Navigate into the project directory:
 
